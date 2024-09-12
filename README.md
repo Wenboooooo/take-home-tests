@@ -1,4 +1,4 @@
-# Frontend Development (前端开发)
+# 1. Frontend Development (前端开发)
 
 ## Key changes:
 - **State management**: Replaced the `state` with `useState` hooks for `user` and `seconds`.
@@ -7,7 +7,7 @@
 
 
 
-# Backend Development (后端开发)
+# 2. Backend Development (后端开发)
 
 ## Screenshots:
 ![helloworld_screenshot](https://github.com/user-attachments/assets/b6401ba3-6b08-4a8a-977d-0c1634f19858)
@@ -18,7 +18,7 @@
 
 
 
-# LLM (大模型微调数据)
+# 3. LLM (大模型微调数据)
 
 ## JSON File Format Description
 
@@ -38,9 +38,12 @@ The generated JSON file is a list containing multiple question-answer pairs, whe
 
 It takes 7.58 seconds to generate 123282 question-answer pairs.
 
+## Peek first few...
+![1726173475892](https://github.com/user-attachments/assets/78bd667f-ba44-4d70-a660-a057fa2cbc5e)
 
 
-# Web Crawler (爬虫)
+
+# 4. Web Crawler (爬虫)
 
 The data source is from https://www.bbc.com/news
 it scraps 43 pieces of news from the main page.
